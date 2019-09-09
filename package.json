@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bignumber": "^1.1.0"
+  },
+  "devDependencies": {
+    "aegir": "^20.0.0"
   }
 }
