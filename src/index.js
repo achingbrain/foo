@@ -1,3 +1,3 @@
-console.info('derp')
+'use strict'
 
-;l
+console.info('derp') // eslint-disable-line no-console
