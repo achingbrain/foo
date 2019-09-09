@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "aegir test"
   },
   "author": "",
   "license": "ISC",
@@ -13,5 +13,12 @@
   },
   "devDependencies": {
     "aegir": "^20.0.0"
+  },
+  "contributors": [
+    "achingbrain <alex@achingbrain.net>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achingbrain/foo.git"
   }
 }
